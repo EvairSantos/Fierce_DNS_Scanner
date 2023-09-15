@@ -1,0 +1,17 @@
+www
+mail
+webmail
+ftp
+admin
+login
+vpn
+secure
+blog
+shop
+test
+dev
+api
+store
+app
+portal
+mailserver
